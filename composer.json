@@ -1,0 +1,14 @@
+{
+    "name": "wjdnw/demo3",
+    "description": "composer学习",
+    "type": "p",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "www.com",
+            "email": "f@f.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
